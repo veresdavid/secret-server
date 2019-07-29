@@ -25,6 +25,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "mongoose": "^5.6.7",
+    "typescript": "^3.5.3",
     "xml2js": "^0.4.19"
   },
   "engines": {
