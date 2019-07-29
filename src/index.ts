@@ -11,6 +11,6 @@ dotenv.config();
     await connectDb();
 
     // after estabilishing the db connection, start the application
-    app.listen(process.env.SERVER_PORT || 3000);
+    app.listen(process.env.PORT || 5000);
 
 })();
